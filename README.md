@@ -16,8 +16,7 @@ Questions/Prompts:
 8. How many "wards" in Hà Nội with "more than 10 stores"?
 9. Which "province" has the "highest ratio of number of stores to number of wards"?
 10. Choose 3 stores neareast to store "VMHNI60"?
-11. Get a "list of cities and provinces" in the "North". There is information about domain name, domain code, area name, area code, after id, name, code of province/city. 
-The data table is arranged in alphabetical order by domain name, region name and city name.
+11. Get a "list of cities and provinces" in the "North". There is information about domain name, domain code, area name, area code, after id, name, code of province/city. The data table is arranged in alphabetical order by domain name, region name and city name.
 12. On the occasion of the establishment of the first branch in Hoan Kiem district - Hanoi, the company plans to organize a gratitude event for loyal customers. All customers with total accumulated purchase value (including VAT) from October 1, 2020 to 
 October 20, 2020 at stores in Hoan Kiem district over 10 million VND will receive a purchase voucher 1 million dong. Knowing that stores in Hoan Kiem district have district_id=1. Get a list of customers who are eligible to participate in the above promotion. 
 The required information includes: customer code, full name, customer name, total purchase value. Sort by descending total purchase value and customer name in Alphabetical order.
