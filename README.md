@@ -1,6 +1,5 @@
 # KPIM-SQL-Project
-About:
-- Data includes 
+About: Data includes sales reports and customer information of a consumer products company taken from a relational database on SQL Server
 
 Key Skills:
 - Complex joins - This competency includes using INNER, LEFT, RIGHT, and FULL joins on multiple tables and using joins for many-to-many relationships.
